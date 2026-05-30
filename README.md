@@ -134,7 +134,7 @@ pickle-mixin
 
 ## Author
 
-Developed by *Diamond*
-https://github.com/tanejadiamond-cpu
+Developed by *Suhani*
+https://github.com/suhanim1947
 
 ---
